@@ -1,0 +1,1 @@
+Spring2.5.6 + struts2.2.1 + hibernate3.5.5 + dwr2 + compass2 + cxf + jna + brancode4j + jbpm4.4
